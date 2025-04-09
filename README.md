@@ -17,7 +17,7 @@ This project transforms the traditional Rock-Paper-Scissors game into an engagin
 - **Interactive Gameplay**: Simple command-line interface for playing against the computer
 - **Score Tracking**: Keeps track of wins, losses, and ties across multiple rounds
 - **Secret Cheat Mode**: Type "predictor" to activate a mode where the computer always loses
-- **Dramatic Effects**: Includes countdown animations for a more engaging experience
+- **Dramatic Effects**: Includes countdown animations for a more engaging experienceg
 - **Educational Content**: Displays interesting facts about the game's history
 
 ## 🚀 How to Play
