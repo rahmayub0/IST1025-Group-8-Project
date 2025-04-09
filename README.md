@@ -57,4 +57,4 @@ This project transforms the traditional Rock-Paper-Scissors game into an engagin
 
 ## 📜 License
 
-This project is open-source.
+This project is open-source. This means anyone can contribute to the project.
