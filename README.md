@@ -57,4 +57,4 @@ This project transforms the traditional Rock-Paper-Scissors game into an engagin
 
 ## 📜 License
 
-This project is open-source and available under the MIT License.
+This project is open-source.
