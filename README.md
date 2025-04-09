@@ -1,3 +1,12 @@
+Group 8
+## 👥 Contributors
+1.	Abdirahman Ahmed		 -672903
+2.	Festo Wafula			 -671113
+3.	Abdulhlaim Mohamed Abeid -673465
+4.	Rahma Mohamed 		 -673598
+5.	Margaret Muyeba		 -673221
+
+
 # 🎮 Rock-Paper-Scissors Game
 
 A fun, interactive command-line implementation of the classic Rock-Paper-Scissors game built with Python.
@@ -46,15 +55,6 @@ This project transforms the traditional Rock-Paper-Scissors game into an engagin
 - Additional game modes (e.g., Rock-Paper-Scissors-Lizard-Spock)
 - Difficulty levels for the computer player
 - Statistics visualization
-
-## 👥 Contributors
-
-- Rahma Mohamed
-- Abdirahman Ahmed
-- Margaret Muyeba
-- Festo Wafula
-- Abdulhalim Mohamed Abeid
-
 ## 📜 License
 
 This project is open-source. This means anyone can contribute to the project.
