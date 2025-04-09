@@ -33,7 +33,7 @@ This project transforms the traditional Rock-Paper-Scissors game into an engagin
 - **Language**: Python 3
 - **Key Modules**: 
   - `random`: For generating the computer's choice
-  - `time`: For creating dramatic pause effects
+  - `time`: For creating dramatic pause effects for suspense
 - **Core Logic**: 
   - Simple conditional statements to determine the winner
   - Dictionary-based score tracking
